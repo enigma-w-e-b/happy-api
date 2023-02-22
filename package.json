@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/enigma-w-e-b/happy-api/issues"
   },
-  "homepage": "https://github.com/enigma-w-e-b/happy-api#readme"
+  "homepage": "https://github.com/enigma-w-e-b/happy-api#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.7.3"
+  }
 }
